@@ -52,9 +52,10 @@
     margin:50px 100px 30px 100px;
  }
 
-  p.img_center{
-    text-align: center; 
-    }
+  img{
+    width: 400px;
+    height:auto;
+  }
 
 
  .descri{
