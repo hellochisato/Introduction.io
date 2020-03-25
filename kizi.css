@@ -53,9 +53,10 @@
  }
 
   img{
-    width: 600px;
+    margin:0 10% 0 10%;
+    padding:0 25% 0 25%;
+    wigth:50%;
     height:auto;
-    align:center;
   }
 
 
