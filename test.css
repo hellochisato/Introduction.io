@@ -20,7 +20,11 @@
     color:white;  
   }
   
-  
+  .main{
+    align:center;
+  }
+
+
   .main-title{
     font-size:70px;
     font-family:sans-serif;
